@@ -32,7 +32,7 @@ Cada uma das três funcionalidades foi abstraída por meio de uma interface e im
 
 Abaixo, o diagrama de classes representando a estrutura do projeto:
 
-<img src="../img/uml-iphone-(1).png" width="500" alt="Oracle">
+<img src="resources/uml-iphone-(1).png" width="500" alt="Uml">
 
 ---
 
