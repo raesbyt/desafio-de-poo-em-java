@@ -1,4 +1,4 @@
-package application;
+package iphone.application;
 
 public class Main {
 
