@@ -88,7 +88,7 @@ java Main
 Repositório do desafio na DIO
 
 ## 🎨 Diagrama UML (Mermaid)
-mermaid
+````mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
@@ -123,6 +123,7 @@ classDiagram
     iPhone --> NavegadorInternet
 
     Main --> iPhone
+````
 
 ## 🛠️ Tecnologias
 
